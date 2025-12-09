@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #1d4ed8; /* Blue */
+  --secondary-color: #fbbf24; /* Yellow */
+  --accent-color: #ef4444; /* Red */
+  --background-color: #f9fafb; /* Light Gray */
+  --text-color: #111827; /* Dark Gray */
+  --text-light-color: #f9fafb; /* Light Text */
+  --border-color: #e5e7eb; /* Gray Border */
+  --shadow-color: rgba(0, 0, 0, 0.1); /* Shadow Color */
+  --font-family: 'Inter', sans-serif; /* Font Family */
+  --transition-speed: 0.3s; /* Transition Speed */
+}
